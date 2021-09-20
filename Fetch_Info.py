@@ -1,5 +1,5 @@
 from Bio import Entrez
-Entrez.email = "Your.Name.Here@example.org"
+Entrez.email = "behnazeslami30@gmail.com"
 handle = Entrez.efetch("pubmed", id="28440475,27476679", retmode="xml")
 # handle = Entrez.efetch("pubmed", id="25277099,26309161,23791657,25394902,28440475,20858276,23333633,26462034,"
 #                                     "21953071,25888956,28693273,26400174,23791885,26124344,23497265,23359482,"
