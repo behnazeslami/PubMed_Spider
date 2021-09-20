@@ -1,6 +1,6 @@
 from Bio import Entrez
 
-Entrez.email = "A.N.Other@example.com"
+Entrez.email = "behnazeslami30@gmail.com"
 Entrez.tool = "MyLocalScript"
 
 def get_retMax(DataBase, TermQuery):
