@@ -3,7 +3,7 @@ from pubmed_lookup import Publication
 from pubmed_lookup import PubMedLookup
 
 
-Entrez.email = "A.N.Other@example.com"
+Entrez.email = "behnazeslami30@gmail.com"
 Entrez.tool = "MyLocalScript"
 email = ''
 
